@@ -1,0 +1,19 @@
+{
+  "name": "first-letter-case-converter-npm",
+  "version": "1.0.0",
+  "description": "My first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajeshvaghani/first-letter-case-converter-npm.git"
+  },
+  "author": "prajesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prajeshvaghani/first-letter-case-converter-npm/issues"
+  },
+  "homepage": "https://github.com/prajeshvaghani/first-letter-case-converter-npm#readme"
+}
